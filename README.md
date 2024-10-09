@@ -1,4 +1,12 @@
-## Prompt:
+# Connected Earth
+
+## Description
+
+## Examples
+- [A person flips down his sunglasses due to the glinting of the sun, somewhere in the Maldives](/example1.md)
+- [A few water droplets fall onto the scales of a wild armadillo in Paraguay.](/example2.md)
+
+## Current Prompt
 Short Overview:\
 I will write an action below, and your task is to create a chain of 5-15 steps
 which happen that will lead to a change in the final state. The goal is to show

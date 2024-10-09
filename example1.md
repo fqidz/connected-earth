@@ -18,6 +18,9 @@ Here is the action:
 A person flips down his sunglasses due to the glinting of the sun, somewhere in the Maldives
 ```
 
+## AI used:
+Gemini 1.5 Pro 002 (https://aistudio.google.com)
+
 ## Raw Result:
 ```json
 [
