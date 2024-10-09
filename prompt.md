@@ -26,28 +26,11 @@ accurate as possible.\
 long.\
 \- We know that this data is not fully correct, therefore, each step should
 include where this data could be gathered to scientifically prove it.\
-\- Include the location of where this step takes place.
+\- Include the location of where this step takes place.\
 \- After writing these steps, format it into a JSON table with the information:
 the step number, the step, 1-5 word summary of the step, confidence level,
 reason for confidence level, explanation, estimated time, location, and data
 source.
-<!-- \- I repeat, THE STEPS SHOULD NOT SIGNIFICANTLY CHANGE HOW THE WORLD WORKS. -->
-
-<!-- Here are some resources from NASA where these steps could be verified from: -->
-<!-- - NASA Life Sciences Data Archive (LSDA): https://lsda.jsc.nasa.gov/in -->
-<!-- - GeneLab: Open Science for Life in Space: https://genelab-data.ndc.nasa.gov/genelab/projects -->
-<!-- - NASA Space Biology Biospecimen Sharing Program (BSP): https://science.nasa.gov/biological-physical/space-biology-biospecimen-sharing-program -->
-<!-- - NASA Biological Institutional Scientific Collection (NBISC): https://www.nasa.gov/ames/nasa-biological-institutional-scientific-collection-nbisc/ -->
-<!-- - Physical Science Informatics (PSI): https://psi.nasa.gov/ -->
-<!-- - General Coordinates Network (GCN): https://gcn.nasa.gov/ -->
-<!-- - High Energy Astrophysics Science Archive Research Center (HEASARC): https://heasarc.gsfc.nasa.gov/ -->
-<!-- - Space Physics Data Facility (SPDF): http://spdf.gsfc.nasa.gov/ -->
-<!-- - Solar Data Analysis Center (SDAC): http://umbra.nascom.nasa.gov/ -->
-<!-- - Community Coordinated Modeling Center (CCMC): http://ccmc.gsfc.nasa.gov/ -->
-<!-- - NASA Worldview: https://worldview.earthdata.nasa.gov/ -->
-<!-- - Giovanni: https://giovanni.gsfc.nasa.gov/giovanni/ -->
-<!-- - Earthdata Code Collaborative (ECC): Earthdata Code Collaborative (ECC) -->
-<!-- - Geographic Information Systems (GIS) -->
 
 Here is the action:\
 A bottle falls into the China sea
