@@ -5,6 +5,7 @@
 ## Examples
 - [A person flips down his sunglasses due to the glinting of the sun, somewhere in the Maldives](/example1.md)
 - [A few water droplets fall onto the scales of a wild armadillo in Paraguay.](/example2.md)
+- [A person takes a picture with their phone using their flash at night in Egypt](/example3.md)
 
 ## Current Prompt
 Short Overview:\
@@ -17,7 +18,7 @@ a hypothetical cat named Tom, who lives in the village of Dayr in Bahrain. The
 impact on Tom should be the final step / final state in the chain.
 
 Detailed Instructions:\
-\- The steps SHOULD NOT BE SIGNIFICANT. It should just show what events it
+\- The steps DON'T NEED TO BE SIGNIFICANT. It should just show what events it
 causes that affect the final state, no matter how small\
 \- Give a scientifically proven fact that this step is based off of. If you
 cannot think of one, revise the step so that it fits with the scientific data\
